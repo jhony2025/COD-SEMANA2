@@ -1,5 +1,5 @@
-### Proyecto: Figuras Geométricas en C++ — Encapsulación de Datos Primitivos
- # Descripción General
+# Proyecto: Figuras Geométricas en C++ — Encapsulación de Datos Primitivos
+ ## Descripción General
 Este proyecto implementa dos clases en C++ —Circulo y Rectangulo— diseñadas bajo los principios de la Programación Orientada a Objetos (POO). Cada clase encapsula datos primitivos (como double) y proporciona métodos para calcular el área y el perímetro, permitiendo demostrar cómo los datos simples pueden ser transformados en Tipos Abstractos de Datos (TAD) mediante el uso de clases.
 El proyecto forma parte de la Unidad I – Estructuras de Datos, enfocada en la manipulación, protección y operación de datos primitivos dentro de objetos.
 ________________________________________
@@ -10,8 +10,8 @@ ________________________________________
 •	 Uso de constructores parametrizados
 •	 Demostración de POO aplicada en C++
 ________________________________________
- ## 1. Estructura del Código
- # Clase Circulo
+ # 1. Estructura del Código
+ ## Clase Circulo
 •	Atributo privado double radio
 •	Constructor parametrizado
 •	Métodos:
@@ -25,8 +25,8 @@ o	CalcularPerimetro()
 o	CalcularArea()
 o	CalcularPerimetro()
 ________________________________________
- ## 2. Explicación Técnica
- # Encapsulamiento
+ # 2. Explicación Técnica
+ ## Encapsulamiento
 Los atributos se declaran como privados para proteger los datos primitivos y evitar modificaciones externas no controladas.
 Los métodos públicos permiten operar sobre los datos sin exponer su implementación interna.
  Constructores
